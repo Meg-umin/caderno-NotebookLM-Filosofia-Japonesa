@@ -2,7 +2,7 @@
 
 ## Contexto e Objetivo
 
-Este projeto foi desenvolvido como parte do desafio da DIO e tem como objetivo , utilizar o NotebookLM para compreender e aprender a utilizar a Filosofia Japonêsa no dia a dia
+Este projeto foi desenvolvido como parte do desafio da DIO e tem como objetivo , utilizar o NotebookLM para compreender e aprender a utilizar a Filosofia Japonesa no dia a dia
 
 ---
 ## Curadoria de fontes
@@ -20,7 +20,7 @@ Fonte de Texto (https://tsubakishrine.org/kaminomichi/kami_no_michi_7.html )
 
 **1- como eu posso aplicar essas filosofias no meu ambiente de trabalho**
 
- O resultado obtido teve uma explicação bem ampla de como a Filosofia Japonêsa pode influenciar positivamente no meio de trabalho, além de uma pequena explicação de cada metodologia utilizada.
+ O resultado obtido teve uma explicação bem ampla de como a Filosofia Japonesa pode influenciar positivamente no meio de trabalho, além de uma pequena explicação de cada metodologia utilizada.
 
  **2- com base nessas informações crie um cronograma semanal seguindo esses conseitos**
  
@@ -75,7 +75,7 @@ Esse ultimo prompt foi a alteração do erro de divisão dos grupos 1,2 e 3 onde
 ---
 ## Resumo
 
-Foi possivel entender que a Filosofia Japonêsa foi uma mistura das tradições nativas, continentais e logica moderna. E que elas ajudaram a compreender como viver a vida, tendo mais eficiência, menos extresses, e podendo enxergar cada parte boa das coisas e nos momentos, além de sempre agradescer a vida.
+Foi possivel entender que a Filosofia Japonesa foi uma mistura das tradições nativas, continentais e logica moderna. E que elas ajudaram a compreender como viver a vida, tendo mais eficiência, menos extresses, e podendo enxergar cada parte boa das coisas e nos momentos, além de sempre agradescer a vida.
 
 ## Glossário
 Estética e Percepção da Beleza
@@ -124,7 +124,7 @@ Relações Sociais e Ética
     Naikan (内観): Método de introspecção baseado em três perguntas sobre nossos relacionamentos: o que recebi, o que dei e que problemas causei.
     Giri (義理): Senso de dever e obrigação social baseada na reciprocidade e compromisso ético.
 
-**Glossário criado utilizando o própio NotebookLM
+*Glossário criado utilizando o própio NotebookLM*
 
 ## Conjunto de Prompts Reutilizáveis
 **<Prompt 1>**
