@@ -153,7 +153,10 @@ Com base no conceito de Shikata ga nai e Hansei, ajude-me a analisar [Descreva u
 
 *lembre-se que os prompts foram testados apenas por mim caso tenha encontrado algum erro na resposta por favor mande mensagem ou entre em contato para possiveis correções*
  
+---
+## Link do NotebookLM
 
+(https://notebooklm.google.com/notebook/7eb9f22d-7b9f-4230-a688-fd3804d4f35d )
 
 
 
