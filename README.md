@@ -16,7 +16,8 @@ Fonte de Texto  (https://www.suapesquisa.com/respostas_filosofia/ensinamentos_fi
 Fonte de Texto (https://tsubakishrine.org/kaminomichi/kami_no_michi_7.html )
 
 ---
-## Engenharia de Promptscom base nessas informações crie um cronograma semanal seguindo esses conseitososofias no meu ambiente de trabalho**
+## Engenharia de Promptscom
+**como eu posso aplicar essas filosofias no meu ambiente de trabalho**
  O resultado obtido teve uma explicação bem ampla de como a Filosofia Japonêsa pode influenciar positivamente no meio de trabalho, além de uma pequena explicação de cada metodologia utilizada.
 
  2- ** com base nessas informações crie um cronograma semanal seguindo esses conseitos**
