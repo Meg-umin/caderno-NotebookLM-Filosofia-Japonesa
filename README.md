@@ -18,13 +18,15 @@ Fonte de Texto (https://tsubakishrine.org/kaminomichi/kami_no_michi_7.html )
 ---
 ## Engenharia de Promptscom
 
-1- **como eu posso aplicar essas filosofias no meu ambiente de trabalho**
+**1- como eu posso aplicar essas filosofias no meu ambiente de trabalho**
+
  O resultado obtido teve uma explicação bem ampla de como a Filosofia Japonêsa pode influenciar positivamente no meio de trabalho, além de uma pequena explicação de cada metodologia utilizada.
 
- 2- **com base nessas informações crie um cronograma semanal seguindo esses conseitos**
+ **2- com base nessas informações crie um cronograma semanal seguindo esses conseitos**
+ 
  Por não ter muitas informações sobre o tipo de cronograma, o chat criou de forma genérica um cronograma que contia uma ou duas metodologias especificas para cada dia especifico e quatro metodologias fixas.
 
-3-**agora com base nos ensinamentos filosóficos obtidos quero que crie um cronograma de estudos semanal para uma pessoa com as seguintes características:**
+**3-agora com base nos ensinamentos filosóficos obtidos quero que crie um cronograma de estudos semanal para uma pessoa com as seguintes características:**
 
 -3 horas de estudo por dia;
 
@@ -52,7 +54,7 @@ Terça-feira: Matemática (Aritmética e Álgebra)
     Foco: Precisão e repetição estratégica (Kumon-shiki).
     Exemplo: Resolva 10 problemas de aritmética de forma impecável (Kodawari). Se errar, trate o erro como dado para melhoria, não falha (Kaizen).
 
-4- **agora com base nos ensinamentos filosóficos obtidos quero que crie um cronograma de estudos semanal para uma pessoa com as seguintes características:**
+**4- agora com base nos ensinamentos filosóficos obtidos quero que crie um cronograma de estudos semanal para uma pessoa com as seguintes características:**
 
 -3 horas de estudo por dia;
 
